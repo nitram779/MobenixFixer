@@ -5,7 +5,7 @@ Server-side only! You must ask the server owner or admin with access to the serv
 
 ### What does it fix?:
 * Adds the missing tonemap controller. Now the map will no longer burn your eyes.
-* Disables dynamic shadows on prop_door_rotating's.
+* Disables dynamic shadows on prop_door_rotating's. Fixes glitchy door shadows, especially in apartments.
 * Disables the annoying Easter egg sounds.
 
 ### TODO:
