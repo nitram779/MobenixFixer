@@ -1,6 +1,7 @@
 # MobenixFixer
 Fixes HDR and some other stuff on a GMod map "gm_mobenix_v3_final".
-Server side only! You must ask the server owner or admin with access to the server codebase to add it to a server with a Mobenix map.
+
+Server-side only! You must ask the server owner or admin with access to the server codebase to add it to a server with a Mobenix map.
 
 ### What does it fix?:
 * Adds the missing tonemap controller. Now the map will no longer burn your eyes.
