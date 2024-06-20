@@ -6,7 +6,7 @@ Server-side only! You must ask the server owner or admin with access to the serv
 ### What does it fix?:
 * Adds the missing tonemap controller. Now the map will no longer burn your eyes.
 * Disables dynamic shadows on prop_door_rotating's. Fixes glitchy door shadows, especially in apartments.
-* Disables the annoying Easter egg sounds.
+* Disables Easter egg sounds. (Because it has a "Play everywhere" spawnflag and can confuse players in multiplayer. It is currently impossible to override the spawnflag without modifying the map.)
 
 ### TODO:
 * Find a way to properly disable Wire Door Controller dynamic shadows.
